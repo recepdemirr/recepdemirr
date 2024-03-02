@@ -1,4 +1,4 @@
-# Merhabalar, Ben Recep DEMİR(.Net Developer)
+# Merhabalar, Ben Recep DEMİR(.Net Backend Developer)
 
 ## Hakkımda
 
