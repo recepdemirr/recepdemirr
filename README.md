@@ -32,5 +32,5 @@ Aşağıda çalıştığım ve tecrübe kazandığım başlıca teknolojiler ve 
 Benimle iletişime geçmek için şu yolları kullanabilirsiniz:
 
 - E-posta: recep@demirr.net.tr
-- LinkedIn: [LinkedIn]([LinkedIn profilinizin linki](https://www.linkedin.com/in/recep-demir-866062292/))
+-  [LinkedIn profilinizin linki](https://www.linkedin.com/in/recep-demir-866062292/)
 
